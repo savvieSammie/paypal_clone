@@ -41,10 +41,5 @@ The PayPal clone project is open-source and available under the MIT License. You
 ## Acknowledgments
 This project is inspired by the PayPal website and aims to replicate its design and user experience. Special thanks to the creators of PayPal for their inspiration.
 
-## Screenshots
-Include a few screenshots of the PayPal clone project to provide a visual preview of the website's design and features. Add the screenshots to the repository's screenshots directory and reference them here.
-
-Screenshot 1
-Screenshot 2
 
 Feel free to customize the above template by adding additional sections or information specific to your PayPal clone project.
